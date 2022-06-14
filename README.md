@@ -1,6 +1,6 @@
-# drumkit
+# Bateria
 
-Mini projeto de bateria feito puramente com JS, CSS e HTML. <br><br>
+Bateria feita com JS, CSS e HTML. 
 
- -As divs correspondentes as letras foram geradas pelo JS. <br>
- -O som é executado tanto pelo click do mouse quanto pelo apertar das teclas. 
+ - O som é executado tanto pelo click do mouse quanto pelo apertar das teclas correspondentes. 
+ - link: https://drumkit-xi.vercel.app/
